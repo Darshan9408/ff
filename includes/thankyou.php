@@ -4,8 +4,8 @@
         <h1 class="display-6 mb-0">Fine Fragrance</h1>
     </div>
     <div class="row g-0 text-center">
-        <div class="col-lg-12 wow fadeIn" data-wow-delay="0.4s">
-            <img class="wow fadeIn" data-wow-delay="0.1s" src="<?= urlOf('/img/ff2.png') ?>"></img>
+        <div class="col-lg-12  wow fadeIn" data-wow-delay="0.4s">
+            <img class="wow fadeIn" style="width: 50%;" data-wow-delay="0.1s" src="<?= urlOf('/img/ff2.png') ?>"></img>
             
         <!-- </div>
         <div class="col-6">
